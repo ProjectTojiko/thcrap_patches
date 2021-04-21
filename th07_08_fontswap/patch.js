@@ -2,9 +2,9 @@
 	"dependencies": [
 		"nmlgc/base_tsa"
 	],
-	"id": "th07_08_fontswap",
+	"id": "th06_07_08_fontswap",
 	"servers": [
-		"https://raw.githubusercontent.com/ProjectTojiko/thcrap_patches/main/th07_08_fontswap/"
+		"https://raw.githubusercontent.com/ProjectTojiko/thcrap_patches/main/th06_07_08_fontswap/"
 	],
-	"title": "Alter th07 and th08's system fonts."
+	"title": "Alter th06/th07 and th08's system fonts."
 }
