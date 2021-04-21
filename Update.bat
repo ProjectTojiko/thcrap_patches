@@ -1,1 +1,0 @@
-C:\Users\gbc97\AppData\Local\Programs\Python\Python36python.exe ..\scripts\repo_update.py
