@@ -1,5 +1,5 @@
 {
-	"patch.js": 4257964186,
+	"patch.js": 2532814675,
 	"th13/se_powerup.wav": 1113438311,
 	"th14/se_powerup.wav": 1113438311,
 	"th15/se_powerup.wav": 1113438311,
