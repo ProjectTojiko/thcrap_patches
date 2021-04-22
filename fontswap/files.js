@@ -1,5 +1,5 @@
 {
-	"patch.js": 3586096713,
+	"patch.js": 157755783,
 	"th06/ascii.png": 594629107,
 	"th06/asciis.png": 326907963,
 	"th07/data/ascii/ascii.png": 1036509312,
