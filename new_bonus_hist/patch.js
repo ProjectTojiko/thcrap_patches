@@ -6,5 +6,5 @@
 	"servers": [
 		"https://raw.githubusercontent.com/ProjectTojiko/thcrap_patches/master/new_bonus_hist/"
 	],
-	"title": "th07 and th08's spell card 'Bonus' 'History' and small numbers become th10 and later's style."
+	"title": "th07 and th08's 'Bonus' 'History' and small numbers change into th10 and later's style."
 }
