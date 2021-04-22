@@ -6,5 +6,5 @@
 	"servers": [
 		"https://raw.githubusercontent.com/ProjectTojiko/thcrap_patches/master/fontswap/"
 	],
-	"title": "Alters th06/th07 and th08's system fonts. th10's score fonts become that of th11's and later's too."
+	"title": "Alters th06/th07 and th08's system fonts. th10's score fonts change into those of th11's and onwards."
 }
