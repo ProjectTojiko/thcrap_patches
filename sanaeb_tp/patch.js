@@ -6,5 +6,5 @@
 	"servers": [
 		"https://raw.githubusercontent.com/ProjectTojiko/thcrap_patches/master/sanaeb_tp/"
 	],
-	"title": "(th12, 15, 18) Lowers Sanae's Frog missiles' opacity to make them less distracting."
+	"title": "(th12, 15, 18) Lowers Sanae's Frog missiles' effects' opacity to make them less distracting."
 }
