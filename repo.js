@@ -2,8 +2,6 @@
 	"contact": "projecttojiko@gmail.com",
 	"id": "ProjectTojiko",
 	"patches": {
-		"SkullLand": "(Beta, WIP) Changes almost stage backgrounds into skulls! (Made just for fun :P)",
-		"WetBackground": "(Beta, WIP) Background is wet. (Made just for fun :P)",
 		"bgmloop_fix": "Fixes th13_20.wav and th14_11.wav's BGM loop point.",
 		"classic_pwup_se": "(th13 and later) Changes Powerup sound to the classic pre-th12 sound.",
 		"sanaeb_tp": "(th12, 15, 18) Lowers Sanae's Frog missiles' effects' opacity to make them less distracting.",
