@@ -21,6 +21,7 @@
 	"th17/background/stage01/st01a.png": 448592605,
 	"th17/background/stage02/st02a.png": 448592605,
 	"th17/background/stage03/stg3bg1.png": 448592605,
+	"th17/background/stage06/st06c.png": 448592605,
 	"th17/effect/eff_switchbg.png": 448592605,
 	"th18/background/stage01/st01a.png": 448592605,
 	"th18/background/stage02/st02a.png": 448592605,
