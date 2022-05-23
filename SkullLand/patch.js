@@ -6,5 +6,5 @@
 	"servers": [
 		"https://raw.githubusercontent.com/ProjectTojiko/thcrap_patches/master/SkullLand/"
 	],
-	"title": "(WIP) Changes stage backgrounds into skulls!"
+	"title": "(Beta, WIP) Changes almost stage backgrounds into skulls! (Made just for fun :P)"
 }
