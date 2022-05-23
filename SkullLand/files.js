@@ -1,5 +1,7 @@
 {
 	"patch.js": 668193605,
+	"th14/background/stage01/world02b.png": 448592605,
+	"th14/background/stage03/stg3bg1.png": 448592605,
 	"th15/background/stage01/st01a.png": 448592605,
 	"th15/background/stage02/st02a.png": 448592605,
 	"th15/background/stage03/stg3bg1.png": 448592605,
