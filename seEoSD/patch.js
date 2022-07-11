@@ -6,5 +6,6 @@
 	"servers": [
 		"https://raw.githubusercontent.com/ProjectTojiko/thcrap_patches/master/seEoSD/"
 	],
-	"title": "(Beta version, wip) Changes some of the sound effects into EoSD style."
+	"title": "(Beta version, wip) Changes most of the sound effects into EoSD style.",
+	"update": true
 }

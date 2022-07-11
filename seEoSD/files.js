@@ -1,5 +1,5 @@
 {
-	"patch.js": 2289131963,
+	"patch.js": 287417765,
 	"th07/se_cat00.wav": 807691968,
 	"th07/se_enep00.wav": 1201332706,
 	"th07/se_enep01.wav": 2481760932,
@@ -104,5 +104,6 @@
 	"th18/se_extend.wav": 2273176291,
 	"th18/se_nep00.wav": 682819276,
 	"th18/se_pldead00.wav": 1670967288,
+	"th18/se_powerup.wav": 3520821195,
 	"th18/se_tan00.wav": 2209198506
 }
