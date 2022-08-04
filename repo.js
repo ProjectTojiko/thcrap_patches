@@ -5,7 +5,7 @@
 		"bgm_looppoint_fix": "Fixes improperly set BGM loop points (th13 Stage 5 boss theme, th14 Stage 5 theme).",
 		"classic_pwup_se": "(th13 and later) Changes Powerup sound to the classic pre-th12 sound.",
 		"seEoSD": "(Beta version, wip) Changes most of the sound effects into EoSD style.",
-		"shot_effect_opacity": "(WIP/th11-15, th18) Marisa's Magic Missile and Sanae's Cobalt Spread effects' opacity lowered (to not-so-distracting level)."
+		"shot_effect_opacity": "(WIP/th11-15, 18) Some shot effects' opacity lowered (to not-so-distracting level) (ex: Marisa's Magic Missile and Sanae's Cobalt Spread)."
 	},
 	"servers": [
 		"https://raw.githubusercontent.com/ProjectTojiko/thcrap_patches/master/"
