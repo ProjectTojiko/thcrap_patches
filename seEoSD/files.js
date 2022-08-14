@@ -169,5 +169,15 @@
 	"th18/se_nep00.wav": 682819276,
 	"th18/se_pldead00.wav": 1670967288,
 	"th18/se_powerup.wav": 3520821195,
-	"th18/se_tan00.wav": 2209198506
+	"th18/se_tan00.wav": 2209198506,
+	"th185/se_cat00.wav": 807691968,
+	"th185/se_enep00.wav": 1201332706,
+	"th185/se_enep01.wav": 2481760932,
+	"th185/se_extend.wav": 2273176291,
+	"th185/se_gun00.wav": 2166449791,
+	"th185/se_lazer01.wav": 357774454,
+	"th185/se_nep00.wav": 682819276,
+	"th185/se_pldead00.wav": 1670967288,
+	"th185/se_powerup.wav": 3520821195,
+	"th185/se_tan00.wav": 2209198506
 }
