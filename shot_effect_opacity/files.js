@@ -4,7 +4,7 @@
 	"th10/player/pl01/pl01.png": 249824333,
 	"th11/player/pl00/pl00.png": 1400910159,
 	"th11/player/pl01/pl01.png": 89791498,
-	"th12/player/pl00/pl00.png": 3757509790,
+	"th12/player/pl00/pl00.png": 411126240,
 	"th12/player/pl01/pl01.png": 1899440323,
 	"th12/player/pl02/pl02.png": 55006136,
 	"th13/player/pl00/pl00.png": 202269863,
