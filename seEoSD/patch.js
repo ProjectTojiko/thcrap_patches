@@ -6,6 +6,6 @@
 	"servers": [
 		"https://raw.githubusercontent.com/ProjectTojiko/thcrap_patches/master/seEoSD/"
 	],
-	"title": "(WIP/th07-) Changes most of the sound effects into EoSD style.",
+	"title": "(th07-) Changes most of the sound effects into EoSD style (if that SE existed in EoSD). Note that se_kira00.wav may not be properly heard.",
 	"update": true
 }
