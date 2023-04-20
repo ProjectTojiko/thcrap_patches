@@ -1,7 +1,15 @@
 {
 	"alcostg/se_cat00.wav": 807691968,
+	"alcostg/se_enep00.wav": 1201332706,
+	"alcostg/se_enep01.wav": 2481760932,
+	"alcostg/se_extend.wav": 2273176291,
+	"alcostg/se_gun00.wav": 2166449791,
 	"alcostg/se_kira00.wav": 3643687910,
+	"alcostg/se_lazer01.wav": 357774454,
+	"alcostg/se_nep00.wav": 682819276,
 	"alcostg/se_pldead00.wav": 1670967288,
+	"alcostg/se_powerup.wav": 3520821195,
+	"alcostg/se_tan00.wav": 2209198506,
 	"patch.js": 3382095497,
 	"th07/se_cat00.wav": 807691968,
 	"th07/se_enep00.wav": 1201332706,
@@ -200,5 +208,16 @@
 	"th185/se_nep00.wav": 682819276,
 	"th185/se_pldead00.wav": 1670967288,
 	"th185/se_powerup.wav": 3520821195,
-	"th185/se_tan00.wav": 2209198506
+	"th185/se_tan00.wav": 2209198506,
+	"th19/se_cat00.wav": 807691968,
+	"th19/se_enep00.wav": 1201332706,
+	"th19/se_enep01.wav": 2481760932,
+	"th19/se_extend.wav": 2273176291,
+	"th19/se_gun00.wav": 2166449791,
+	"th19/se_kira00.wav": 3643687910,
+	"th19/se_lazer01.wav": 357774454,
+	"th19/se_nep00.wav": 682819276,
+	"th19/se_pldead00.wav": 1670967288,
+	"th19/se_powerup.wav": 3520821195,
+	"th19/se_tan00.wav": 2209198506
 }
