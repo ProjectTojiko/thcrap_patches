@@ -1,4 +1,7 @@
 {
+	"alcostg/se_cat00.wav": 807691968,
+	"alcostg/se_kira00.wav": 3643687910,
+	"alcostg/se_pldead00.wav": 1670967288,
 	"patch.js": 3382095497,
 	"th07/se_cat00.wav": 807691968,
 	"th07/se_enep00.wav": 1201332706,
