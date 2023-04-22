@@ -2,7 +2,7 @@
 	"alcostg/bullet/etama2.png": 2679363594,
 	"patch.js": 4041779133,
 	"th07/data/etama/etama2.png": 2171084821,
-	"th08/data/etama/etama2.png": 2171084821,
+	"th08/data/etama/etama2.png": 2126153487,
 	"th09/data/etama/etama2.png": 2231630392,
 	"th095/data/bullet/etama2.png": 1746167188,
 	"th10/bullet/etama2.png": 2679363594,
