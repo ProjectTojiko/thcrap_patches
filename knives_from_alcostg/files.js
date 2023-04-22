@@ -1,6 +1,6 @@
 {
 	"patch.js": 3377616221,
-	"th095/other/etama6.png": 3790272972,
+	"th095/data/bullet/etama6.png": 3790272972,
 	"th10/bullet/etama6.png": 3790272972,
 	"th11/bullet/etama6.png": 3790272972,
 	"th12/bullet/etama6.png": 3790272972,

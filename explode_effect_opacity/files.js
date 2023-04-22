@@ -4,7 +4,7 @@
 	"th07/etama2.png": 2171084821,
 	"th08/etama2.png": 2171084821,
 	"th09/etama2.png": 2231630392,
-	"th095/other/etama2.png": 1746167188,
+	"th095/data/bullet/etama2.png": 1746167188,
 	"th10/bullet/etama2.png": 2679363594,
 	"th11/bullet/etama2.png": 2679363594,
 	"th12/bullet/etama2.png": 2679363594,
