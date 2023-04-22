@@ -1,4 +1,5 @@
 {
+	"alcostg/bullet/etama2.png": 2679363594,
 	"patch.js": 4041779133,
 	"th07/etama2.png": 2171084821,
 	"th08/etama2.png": 2171084821,
