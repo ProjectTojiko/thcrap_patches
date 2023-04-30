@@ -6,6 +6,6 @@
 	"servers": [
 		"https://raw.githubusercontent.com/ProjectTojiko/thcrap_patches/master/knives_from_alcostg/"
 	],
-	"title": "(Testing stage) Changes the knife bullet graphics into that of Uwabami Breakers (a.k.a alcostg).",
+	"title": "Changes the knife bullet graphics into that of Uwabami Breakers (a.k.a alcostg).",
 	"update": true
 }

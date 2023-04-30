@@ -1,7 +1,10 @@
 {
-	"patch.js": 3377616221,
-	"th08/data/etama/etama6.png": 756699821,
-	"th09/data/etama/etama6.png": 756699821,
+	"patch.js": 1188444387,
+	"th07/data/etama/etama.png": 1792757837,
+	"th08/data/etama/etama.png": 1792757837,
+	"th08/data/etama/etama6.png": 317573572,
+	"th09/data/etama/etama.png": 1792757837,
+	"th09/data/etama/etama6.png": 317573572,
 	"th095/data/bullet/etama6.png": 3790272972,
 	"th10/bullet/etama6.png": 3790272972,
 	"th11/bullet/etama6.png": 3790272972,
