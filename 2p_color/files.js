@@ -1,5 +1,11 @@
 {
 	"patch.js": 713038481,
+	"th095/data/enm/boss0.png": 1236795701,
+	"th095/data/enm/boss14.png": 2757395899,
+	"th095/data/enm/boss20.png": 916436981,
+	"th095/data/enm/boss21.png": 3159769355,
+	"th095/data/enm/boss21b.png": 577659687,
+	"th095/data/enm/boss9.png": 171615953,
 	"th10/player/pl00/pl00.png": 3217046777,
 	"th10/player/pl01/pl01.png": 445445628,
 	"th11/player/pl00/pl00.png": 3217046777,
