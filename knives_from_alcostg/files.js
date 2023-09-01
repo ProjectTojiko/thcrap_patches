@@ -19,5 +19,6 @@
 	"th165/bullet/bullet2.png": 3790272972,
 	"th17/bullet/bullet2.png": 3790272972,
 	"th18/bullet/bullet2.png": 3790272972,
-	"th185/bullet/bullet2.png": 3790272972
+	"th185/bullet/bullet2.png": 3790272972,
+	"th19/bullet/bullet2.png": 3790272972
 }
