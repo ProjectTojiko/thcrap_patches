@@ -41,5 +41,7 @@
 	"th18/player/pl02/pl02.png": 4028385531,
 	"th185/player/pl01/pl01.png": 102881980,
 	"th185/stgenm/en14/boss14.png": 3386960578,
-	"th185/stgenm/en16/stg4aenm.png": 2477761951
+	"th185/stgenm/en16/stg4aenm.png": 2477761951,
+	"th19/player/pl00/pl00.png": 2477365974,
+	"th19/player/pl01/pl01.png": 102881980
 }
