@@ -18,5 +18,6 @@
 	"th17/se_kira00.wav": 3643687910,
 	"th18/se_kira00.wav": 3643687910,
 	"th185/se_kira00.wav": 3643687910,
-	"th19/se_kira00.wav": 3643687910
+	"th19/se_kira00.wav": 3643687910,
+	"th20/se_kira00.wav": 3643687910
 }
