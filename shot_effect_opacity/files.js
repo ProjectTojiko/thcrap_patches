@@ -6,7 +6,7 @@
 	"th11/player/pl01/pl01.png": 612491077,
 	"th12/player/pl00/pl00.png": 3545045217,
 	"th12/player/pl01/pl01.png": 2624212916,
-	"th12/player/pl02/pl02.png": 55006136,
+	"th12/player/pl02/pl02.png": 3295810872,
 	"th128/player/pl00/pl00.png": 4142126858,
 	"th13/player/pl00/pl00.png": 3507333973,
 	"th13/player/pl01/pl01.png": 2624212916,
@@ -32,6 +32,6 @@
 	"th18/effect/eff_splash.png": 1990460340,
 	"th18/player/pl00/pl00.png": 823998624,
 	"th18/player/pl01/pl01.png": 2706009312,
-	"th18/player/pl03/pl03.png": 3668066537,
-	"th18/player/pl03/pl03c.png": 3169511353
+	"th18/player/pl03/pl03.png": 3590507231,
+	"th18/player/pl03/pl03c.png": 2778365659
 }
