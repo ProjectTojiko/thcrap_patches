@@ -16,7 +16,7 @@
 	"th125/enm/en27/stg4benm.png": 1513240889,
 	"th128/player/pl00/pl00.png": 1693907862,
 	"th13/player/pl00/pl00.png": 2477365974,
-	"th13/player/pl01/pl01.png": 445445628,
+	"th13/player/pl01/pl01.png": 396797315,
 	"th13/player/pl03/pl03.png": 3073109155,
 	"th14/player/pl00/pl00.png": 2477365974,
 	"th14/player/pl01/pl01.png": 445445628,
@@ -43,5 +43,7 @@
 	"th185/stgenm/en14/boss14.png": 3386960578,
 	"th185/stgenm/en16/stg4aenm.png": 2477761951,
 	"th19/player/pl00/pl00.png": 2477365974,
-	"th19/player/pl01/pl01.png": 102881980
+	"th19/player/pl01/pl01.png": 102881980,
+	"th20/player/pl00/pl00.png": 2477365974,
+	"th20/player/pl01/pl01.png": 102881980
 }
