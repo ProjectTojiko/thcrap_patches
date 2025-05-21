@@ -16,3 +16,6 @@ Fixes improperly set BGM loop points (th13 Stage 5 boss theme, th14 Stage 5 them
 
 # shot_effect_opacity
 (WIP/th10-16, 18) Some shot effects' opacity lowered (to not-so-distracting level) (ex: Marisa's Magic Missile and Sanae's Cobalt Spread explosion).
+
+# werehakutaku
+(th095, th143) Transforms Keine into her Were-Hakutaku form (th08 EX midboss)
