@@ -11,7 +11,7 @@
 		"seEoSD_kira00": "(th07-) The full version of the patch, this patch includes se_kira00.wav. Note that se_kira00.wav may not be properly heard.",
 		"shot_effect_opacity": "(Beta, WIP/th10-16, 18) Some shot effects' opacity lowered (to not-so-distracting level) (ex: Marisa's Magic Missile and Sanae's Cobalt Spread explosion).",
 		"th185_Bule": "(th185) (Temporary patch) Fixes the 'FairyWave Rainy Bule' typo. Note that this patch is temporary and patches ECL.",
-		"werehakutaku": "(th095, th143) Transforms Keine into her Were-Hakutaku form. (th095 spell background not supported yet)"
+		"werehakutaku": "(th095, th143) Transforms Keine into her Were-Hakutaku form (th08 EX midboss)."
 	},
 	"servers": [
 		"https://raw.githubusercontent.com/ProjectTojiko/thcrap_patches/master/"
