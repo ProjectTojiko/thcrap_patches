@@ -11,6 +11,9 @@ Fixes improperly set BGM loop points (th13 Stage 5 boss theme, th14 Stage 5 them
 # classic_pwup_se
 (th13-) Changes Powerup sound to the classic pre-th12 sound.
 
+# knives_from_alcostg
+(th07-) Changes the knife bullet graphics into that of Uwabami Breakers (a.k.a alcostg).
+
 # seEoSD
 (WIP/th07-) Changes most of the sound effects into EoSD style.
 
